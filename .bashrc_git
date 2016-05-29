@@ -1,0 +1,3 @@
+# git customisation
+alias gg='git gui &'
+alias gka='gitk --all &'
